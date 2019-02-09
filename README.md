@@ -1,0 +1,1 @@
+This repo is for a simple blog app created with flask & python3 for learning purposes. The tutorial is from Corey Schafer's Python Flask Tutorial series, which can be found [here](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
