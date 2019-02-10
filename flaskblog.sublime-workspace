@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"date",
+				"date_posted"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"html",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/johnnutter/github.com/flask-projects/01_blog"
+	],
+	"file_history":
+	[
+		"/Users/johnnutter/github.com/flask-projects/02_fernbucks-flask/fernbucks/models.py",
+		"/Users/johnnutter/github.com/flask-projects/02_fernbucks-flask/fernbucks/forms.py",
+		"/Users/johnnutter/github.com/flask-projects/02_fernbucks-flask/fernbucks/routes.py",
+		"/Users/johnnutter/github.com/flask-projects/02_fernbucks-flask/fernbucks/static/css/main.css",
+		"/Users/johnnutter/github.com/flask-projects/01_blog/run.py",
+		"/Users/johnnutter/github.com/flask-projects/02_fernbucks-flask/README.md",
+		"/Users/johnnutter/Downloads/basic.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2018-07-29-newsitedesign.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2018-11-22-Finishingouttheyear.md",
+		"/Users/johnnutter/github.com/tdsite/css/main.scss",
+		"/Users/johnnutter/github.com/tdsite/index.html",
+		"/Users/johnnutter/github.com/tdsite/tags.md",
+		"/Users/johnnutter/github.com/tdsite/_layouts/post.html",
+		"/Users/johnnutter/github.com/tdsite/search.json",
+		"/Users/johnnutter/github.com/tdsite/_layouts/tagpage.html",
+		"/Users/johnnutter/github.com/tdsite/_includes/header.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-08-20-what-are-your-thoughts-on-the-newest-robocop-film.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-13-music-vol-1.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-14-blade-runner-2.html",
+		"/Users/johnnutter/github.com/tdsite/_taggen.py",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-14-deus-ex-human-revolution.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-14-ken-garings-planetoid.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-16-archimetrical-universe-by-atomine-elektrine.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-16-automata.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2014-12-18-tarkovskys-stalker.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2015-05-02-xerrox-vol-3-by-alva-noto.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2015-09-20-bourgeoisie-space-tapes-and-vice.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2015-09-20-mega-drive-198xad.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-16-theflash.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-22-savitar.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-24-Unixbundle.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-03-02-HangingoutwithRubocop.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-01-23-DiggingintoElectron.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-02-05-Checkintime.md",
+		"/Users/johnnutter/github.com/tdsite/about.md",
+		"/Users/johnnutter/github.com/tdsite/music.md",
+		"/Users/johnnutter/github.com/tdsite/tag/80s.md",
+		"/Users/johnnutter/github.com/tdsite/.gitignore",
+		"/Users/johnnutter/github.com/tdsite/_includes/head.html",
+		"/Users/johnnutter/github.com/tdsite/_includes/footer.html",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-02-09-Feelingflasky.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-01-28-Resolvetomakemusic.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-01-20-PHPmoviedatabase.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-01-20-NESandunfinishedprojects.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2019-01-17-Gettinguptospeed.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-07-08-PHPandme.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-07-05-PreacherandLinux.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-05-27-OpsandReaper.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-05-08-GuardiansoftheGalaxy2.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-03-01-rubyalldaylong.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2017-02-24-RubyRubyRuby.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-19-Funfunfunctions.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-14-flexinwithplex.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-11-MoreLinux.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-07-flashback.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-05-tv-and-such.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-11-03-new-thoughts.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-10-21-morepython.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-05-21-forward-thinking.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-03-22-phpandme.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-03-09-wednesday.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-24-my-anaconda.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-15-weekendwarrior.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-10-careerthoughts.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-08-feelingproductive.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-06-jsmusic.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-02-01-next.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-31-done.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-30-proptronic.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-29-musics.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-29-moar.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-27-new-site.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-25-day-two.md",
+		"/Users/johnnutter/github.com/tdsite/_posts/2016-01-24-first-post.md",
+		"/Users/johnnutter/github.com/tdsite/tag/python.md",
+		"/Users/johnnutter/github.com/tdsite/_includes/collecttags.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/flask_blog/__init__.py",
+		"/Users/johnnutter/github.com/flaskblog/blog/flaskblog.py",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/about.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/home.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/models.py",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/login.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/register.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/layout.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/forms.py",
+		"/Users/johnnutter/github.com/flaskblog/blog/static/main.css",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/re\nregister.html",
+		"/Users/johnnutter/github.com/flaskblog/blog/templates/forms.py",
+		"/Users/johnnutter/github.com/flask-app/simpleapp/hello.py",
+		"/Users/johnnutter/github.com/flask-app/simpleapp/templates/home.html",
+		"/Users/johnnutter/github.com/flask-app/simpleapp/templates/template.html",
+		"/Users/johnnutter/github.com/flask-app/simpleapp/app.py",
+		"/Users/johnnutter/Dropbox/comic-book-lists/x-o-manowar.md",
+		"/Users/johnnutter/Dropbox/comic-book-lists/hulk-redhulk.md",
+		"/Users/johnnutter/github.com/fernbucks/scripts/footer.php",
+		"/Users/johnnutter/github.com/php-movie-app/footer.php",
+		"/Users/johnnutter/github.com/fernbucks/js/scripts.js",
+		"/Users/johnnutter/github.com/fernbucks/index.html",
+		"/Users/johnnutter/github.com/php-movie-app/scripts/delmovies.php",
+		"/Users/johnnutter/.npmrc",
+		"/Users/johnnutter/github.com/class_bank/static/js/stash.min.js",
+		"/Users/johnnutter/github.com/php-movie-app/scripts/test.php",
+		"/Users/johnnutter/github.com/php-movie-app/scripts/movie-logic.php",
+		"/Users/johnnutter/github.com/php-movie-app/_notes.md",
+		"/Users/johnnutter/gitlab.com/tdsite/_includes/disqus_comments.html",
+		"/Users/johnnutter/gitlab.com/tdsite/_link.md",
+		"/Users/johnnutter/gitlab.com/tdsite/_includes/icon-gitlab.html",
+		"/Users/johnnutter/gitlab.com/tdsite/_includes/footer.html",
+		"/Users/johnnutter/gitlab.com/tdsite/_site/index.html",
+		"/Users/johnnutter/Desktop/mysql_notes.sql",
+		"/Users/johnnutter/Desktop/google_play_library.csv",
+		"/Users/johnnutter/Desktop/mysql.sql",
+		"/Users/johnnutter/Library/Preferences/Ableton/Live 9.7.7/User Remote Scripts/GraphiteM25Custom/UserConfiguration.txt",
+		"/Users/johnnutter/Dropbox/dark_twitter.css",
+		"/Users/johnnutter/Downloads/Glitch_2_1_1_Mac_Registered/Glitch2_Readme.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flaskblog.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
